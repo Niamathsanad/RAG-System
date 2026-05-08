@@ -1,6 +1,14 @@
 # Foundational RAG System
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Niamathsanad/RAG-System)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit)](https://streamlit.io/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Deploy](https://img.shields.io/badge/Deploy-Streamlit%20Cloud-FF4B4B)](https://share.streamlit.io)
+
 A Retrieval-Augmented Generation (RAG) system that combines document retrieval with language model generation for intelligent question answering.
+
+**🌐 GitHub Repository:** https://github.com/Niamathsanad/RAG-System
 
 ## 🌟 Features
 
